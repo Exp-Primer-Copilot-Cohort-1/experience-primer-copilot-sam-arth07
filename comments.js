@@ -1,15 +1,4 @@
 //create web server using express
-//create a route that returns a list of comments
-//create a route that returns a single comment
-//create a route that posts a new comment
-//create a route that updates a comment
-//create a route that deletes a comment
-//use nodemon to run the server
-
-//express is a framework for Node.js
-//npm install express --save
-//nodemon is a utility that will monitor for any changes in your source and automatically restart your server
-//npm install -g nodemon
 
 var express = require('express');
 var app = express();
